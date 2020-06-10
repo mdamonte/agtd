@@ -1,1 +1,3 @@
-# Strapi based GTD application, based on David Allen's Getting Things Done
+# Strapi application
+
+A quick description of your strapi application
